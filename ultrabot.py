@@ -1,6 +1,6 @@
 import discord
 import asyncio
-import os
+import os obwiFwivfwO
 import re
 import sys
 import importlib
